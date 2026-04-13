@@ -1,0 +1,2 @@
+def exit():
+  print("THANKS FOR PLAYING A GAME BY ARSHDEEP SINGH :)")
